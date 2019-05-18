@@ -1,5 +1,7 @@
 # ionic4-vueapp
 
+App realizada con IONIC4 y VueJs, utilizo la API de reddit/recipes (formato JSON) para mostrar imagenes/datos
+
 ## Project setup
 ```
 npm install
